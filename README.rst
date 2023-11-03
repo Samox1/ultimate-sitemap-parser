@@ -1,23 +1,4 @@
-.. image:: https://travis-ci.org/mediacloud/ultimate-sitemap-parser.svg?branch=develop
-    :target: https://travis-ci.org/mediacloud/ultimate-sitemap-parser
-    :alt: Build Status
-
-.. image:: https://readthedocs.org/projects/ultimate-sitemap-parser/badge/?version=latest
-    :target: https://ultimate-sitemap-parser.readthedocs.io/en/latest/?badge=latest
-    :alt: Documentation Status
-
-.. image:: https://coveralls.io/repos/github/mediacloud/ultimate-sitemap-parser/badge.svg?branch=develop
-    :target: https://coveralls.io/github/mediacloud/ultimate-sitemap-parser?branch=develop
-    :alt: Coverage Status
-
-.. image:: https://badge.fury.io/py/ultimate-sitemap-parser.svg
-    :target: https://badge.fury.io/py/ultimate-sitemap-parser
-    :alt: PyPI package
-
-.. image:: https://pepy.tech/badge/ultimate-sitemap-parser
-    :target: https://pepy.tech/project/ultimate-sitemap-parser
-    :alt: Download stats
-
+DEVELOPMENT FORK FOR PARSING SITEMAPs (XML / PHP)
 
 Website sitemap parser for Python 3.5+.
 
